@@ -1,0 +1,9 @@
+Image KYC
+	a. 
+	b. 
+	c. exception handling
+	incorrect file upload
+
+
+
+
